@@ -1,4 +1,4 @@
-Prismarine
+Hcore
 ===================
 
 __An server software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.5__
