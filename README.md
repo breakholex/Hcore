@@ -14,5 +14,4 @@ Get PHP 7.2 for Hcore
 <!--* Installation instructions can be found in the [wiki](https://github.com/iTXTech/Genisys/wiki).-->
 Description
 -------------
-ตอนนี้ตัวรันยังไม่ปล่อยให้ download free
-รอ เวอร์ชั่น Public เร็วๆ นี้
+ห้ามนำไปขายโดยที่ไม่มีการ modify
