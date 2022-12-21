@@ -1,3 +1,18 @@
-# Hcore
-Project for mcpe 1.1.x
-coming soon......
+Prismarine
+===================
+
+__An server software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.5__
+
+However, Hcore fork form PocketMine-MP There are still many bugs.
+
+[Forum](https://forums.pmmp.io/) is also available.-->
+* [Discord](https://discord.gg/XdycRkwRdB)
+
+Get PHP 7.2 for Hcore
+-------------
+* PHP Binaries [here](https://www.mediafire.com/file/48juxdzex476b8y/bin7.2.zip/file).
+<!--* Installation instructions can be found in the [wiki](https://github.com/iTXTech/Genisys/wiki).-->
+Description
+-------------
+ตอนนี้ตัวรันยังไม่ปล่อยให้ download free
+รอ เวอร์ชั่น Public เร็วๆ นี้
